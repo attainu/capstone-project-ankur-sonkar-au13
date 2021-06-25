@@ -4,8 +4,10 @@ import './App.css';
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Services from './components/pages/Services';
+import Bajaj from './components/brands/Bajaj';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
+import Login from './components/Login'
 
 function App() {
   return (
@@ -14,9 +16,11 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
-          <Route path='/services' component={Services} />
+          <Route path='/services' exact component={Services} />
+          <Route path='/brands/bajaj' component={Bajaj} />
           <Route path='/products' component={Products} />
           <Route path='/sign-up' component={SignUp} />
+          <Route path='/login' component={Login} />
         </Switch>
       </Router>
     </>

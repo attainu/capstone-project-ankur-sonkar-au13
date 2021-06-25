@@ -12,22 +12,22 @@ function Cards() {
             <CardItem
               src='images/bajaj_logo.png'
               text='Some text about the company'
-              path='/services'
+              path='/brands/bajaj'
             />
             <CardItem
               src='images/ktm_logo.png'
               text='Some text about the company'
-              path='/services'
+              path='/brands/ktm'
             />
             <CardItem
               src='images/Honda-1.jpg'
               text='Some text about the company'
-              path='/services'
+              path='/brands/honda'
             />
             <CardItem
               src='images/RE_logo.png'
               text='Some text about the company'
-              path='/products'
+              path='/products/'
             />
             <CardItem
               src='images/yamaha_logo.png'
