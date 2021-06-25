@@ -5,6 +5,7 @@ import bodyParser from 'body-parser';
 import morgan from 'morgan';
 import path from 'path';
 import connection from './config/connection';
+import Brand from './models/Brand';
 const app = express();
 const port = process.env.PORT || 3000;
 const NODE_ENV = process.env.NODE_ENV || "production"
@@ -30,7 +31,7 @@ app.get('/check', (req, res) => {
 
 //importing routes
 app.use('/api/v1/auth', require('./routes/authRoutes'));
-app.use('/api/v1', require('./routes/userRoutes'));
+app.use('/api/v1', require('./routes/brandRoutes'));
 // app.use('/api/v1', require('./routes/v1/homeRoutes'));
 
 //setting up custom error message for routes 

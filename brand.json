@@ -1,0 +1,69 @@
+{
+    "brandList": [
+      {
+        "title": "Bajaj",
+        "imageLink": "https://unsplash.com/photos/8V1GPiXjXHU",
+        "engineCapacity":"97.2cc",
+        "mileage":"63KMPL",
+        "Transmission":" 4 Speed Manual",
+        "Weight":"110KG"
+      },
+      {
+        "title": "KTM",
+        "imageLink": "https://unsplash.com/photos/cLHPacdtpSY",
+        "engineCapacity":"97.2cc",
+        "mileage":"63KMPL",
+        "Transmission":" 4 Speed Manual",
+        "Weight":"110KG"
+      },
+      {
+        "title": "Hero honda",
+        "imageLink": "https://unsplash.com/photos/8V1GPiXjXHU",
+        "engineCapacity":"97.2cc",
+        "mileage":"63KMPL",
+        "Transmission":" 4 Speed Manual",
+        "Weight":"110KG"
+      },
+      {
+        "title": "Yamaha",
+        "imageLink": "https://unsplash.com/photos/8V1GPiXjXHU",
+        "engineCapacity":"97.2cc",
+        "mileage":"63KMPL",
+        "Transmission":" 4 Speed Manual",
+        "Weight":"110KG"
+      },
+      {
+        "title": "Royal Enfield",
+        "imageLink": "https://unsplash.com/photos/Dha9uFRKD9w",
+        "engineCapacity":"97.2cc",
+        "mileage":"63KMPL",
+        "Transmission":" 4 Speed Manual",
+        "Weight":"110KG"
+      },
+      {
+        "title": "Suzuki",
+        "imageLink": "https://unsplash.com/photos/8V1GPiXjXHU",
+        "engineCapacity":"97.2cc",
+        "mileage":"63KMPL",
+        "Transmission":" 4 Speed Manual",
+        "Weight":"110KG"
+      },
+      {
+        "title": "TVS",
+        "imageLink": "https://unsplash.com/photos/8V1GPiXjXHU",
+        "engineCapacity":"97.2cc",
+        "mileage":"63KMPL",
+        "Transmission":" 4 Speed Manual",
+        "Weight":"110KG"
+      },
+      {
+        "title": "BMW",
+        "imageLink": "https://unsplash.com/photos/8V1GPiXjXHU",
+        "engineCapacity":"97.2cc",
+        "mileage":"63KMPL",
+        "Transmission":" 4 Speed Manual",
+        "Weight":"110KG"
+      }
+      
+  ]
+}
